@@ -6,7 +6,7 @@
 - <b>Para você DEV hardcore apenas de um clone nesse repositorio e BOA SORTE!</b> :smile:.
 - <b>Haa aqui não vai ter muita imagenzinha não muhahah</b>
 
-- Para você que quer entender tudo certinho só seguir lendo (<b>Tem que ler tudo ta me ouvindo ?</b>).
+- Para você que quer entender tudo certinho só seguir lendo (<b>Tem que ler tudo ta me ouvindo?</b>).
 
 - Tenha o <b>docker</b> e o <b>docker-compose</b> instalados na sua máquina.
 - E lembre-se de ter a extenção do <b>PHP Debug</b> no seu Vscode.
