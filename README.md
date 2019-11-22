@@ -111,7 +111,7 @@ $ docker-compose start
 ```
 - Agora já podemos acessar nosso <b>localhost</b> e debugar nosso código apenas apertando <b>F5</b> no arquivo <b>index.php</b>. Para as variáveis no canto esquerdo do debug  aparecerem, depois de ter dado F5 no index.php você precisa dar também F5 na página, para ai sim aparecer tudo certinho para você debugar.
 
-- E adicione um breakpoint no código se não se você iniciar o debug sem ele e vai aparecer que não funcionou.
+- E adicione um breakpoint no código se não se você iniciar o debug sem ele vai aparecer que não funcionou.
 
 
 <b>Eu sei, eu sei, foi bem grande porém eu dei meu máximo para tentar te ajudar de alguma forma<b>
